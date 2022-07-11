@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @igorfgama
-- 👀 I’m interested in
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me igor.franca@bb.com.br
+- 👋 Hi, I’m igor
+- 👀 I’m interested in web security & AI
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on something good
+- 📫 How to reach me somewhere in the world
 
 <!---
 igorfgama/igorfgama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
